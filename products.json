@@ -2,14 +2,14 @@
     {
         "id": "1",
         "name": "Portable Rechargeable Fan (Green) – 10W",
-        "image": "images/portable-fan-green.jpg",
+        "image": "images/1.jpg",
         "price": "PKR 3,500",
         "description": "Stay cool with this powerful portable fan. Perfect for home, office, or outdoor use!"
     },
     {
         "id": "2",
         "name": "Mini USB Air Cooler",
-        "image": "images/mini-air-cooler.jpg",
+        "image": "images/2.jpg",
         "price": "PKR 2,000",
         "description": "A compact USB-powered air cooler for your personal space."
     }
